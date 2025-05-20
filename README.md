@@ -20,7 +20,7 @@ TinDog is a playful, Tinder-inspired landing page for dog lovers, built with mod
 
 ## Demo
 
-> **Live Demo:** Not available yet
+> **Live Demo:** [TinDog](https://avaneesh40585.github.io/TinDog/)
 
 ---
 
