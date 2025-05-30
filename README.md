@@ -1,4 +1,4 @@
-# TinDog
+# TinDog 🐶
 
 TinDog is a playful, Tinder-inspired landing page for dog lovers, built with modern HTML5 and Bootstrap 5. This project is perfect for learning responsive web design, Bootstrap components, and landing page best practices.
 
@@ -73,7 +73,7 @@ Edit `/css/style.css` or images in `/images` to customize.
 
 ## Folder Structure
 
-<pre>
+```
 tindog/
 ├── index.html
 ├── css/
@@ -85,7 +85,7 @@ tindog/
     ├── techcrunch.png
     ├── tnw.png
     └── bizinsider.png
-</pre>
+```
 
 
 ---
@@ -136,4 +136,4 @@ For any questions or suggestions, feel free to open an issue or contact me.
 
 ---
 
-**Enjoy TinDog! 🐶**
+**Enjoy TinDog!**
