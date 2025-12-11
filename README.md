@@ -57,8 +57,9 @@ tindog/
   Replace images in `/images` with your own assets.
 - **Text & Content:**  
   Edit `index.html` to update features, testimonials, or pricing plans.
-- **Bootstrap:**
-  Bootstrap used in the project can be modified as needed. You can [search here](https://getbootstrap.com/) for more components. You can update the Bootstrap CDN link for newer versions if needed.
+- **Bootstrap:**  
+  Bootstrap used in the project can be modified as needed. You can [search here](https://getbootstrap.com/) for more
+  additional components. You can update the Bootstrap CDN link for newer versions if needed.
 
 ---
 
